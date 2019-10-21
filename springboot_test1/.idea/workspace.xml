@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6857439f-df81-4066-94c7-c5e4612a5cff" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IntelliJ IDEA 2019.2.2\plugins\maven\lib\maven3\conf\settings -aliyun.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RH7JRnvUOnZeEx9lVCejdveyJR" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\springboot_test1\producer\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.testSendEmail">
+    <configuration name="AppTest.testSendEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.AppTest" />
+      <option name="METHOD_NAME" value="testSendEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTest1ApplicationTests.TestRedis1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboot_test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springboot_test1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springboot_test1.SpringbootTest1ApplicationTests" />
+      <option name="METHOD_NAME" value="TestRedis1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTest1ApplicationTests.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot_test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springboot_test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.springboot_test1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springboot_test1.SpringbootTest1ApplicationTests" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.AppConsumer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTest1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_test1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot_test1.SpringbootTest1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testSendEmail" />
+        <item itemvalue="Spring Boot.AppConsumer" />
+        <item itemvalue="Spring Boot.App (1)" />
+        <item itemvalue="JUnit.SpringbootTest1ApplicationTests.find" />
+        <item itemvalue="JUnit.SpringbootTest1ApplicationTests.TestRedis1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6857439f-df81-4066-94c7-c5e4612a5cff" name="Default Changelist" comment="" />
+      <created>1568681050086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568681050086</updated>
+      <workItem from="1568681054123" duration="17467000" />
+      <workItem from="1568768315718" duration="6133000" />
+      <workItem from="1568791383799" duration="1573000" />
+      <workItem from="1568796177274" duration="1239000" />
+      <workItem from="1568856496142" duration="12979000" />
+      <workItem from="1568960189532" duration="3402000" />
+      <workItem from="1569204218354" duration="2278000" />
+      <workItem from="1569215973631" duration="283000" />
+      <workItem from="1569226889255" duration="2719000" />
+      <workItem from="1569235133962" duration="75000" />
+      <workItem from="1569287465838" duration="10227000" />
+      <workItem from="1569312103881" duration="2598000" />
+      <workItem from="1569475298414" duration="1049000" />
+      <workItem from="1569476593360" duration="99000" />
+      <workItem from="1570499263238" duration="736000" />
+      <workItem from="1570673469273" duration="1152000" />
+      <workItem from="1570695359447" duration="1172000" />
+      <workItem from="1571191240851" duration="3449000" />
+      <workItem from="1571206949276" duration="669000" />
+      <workItem from="1571292715155" duration="3533000" />
+      <workItem from="1571296689178" duration="797000" />
+      <workItem from="1571297504470" duration="179000" />
+      <workItem from="1571297701721" duration="2224000" />
+      <workItem from="1571359741508" duration="5525000" />
+      <workItem from="1571389159799" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/consumer/src/main/java/com/example/rabbit/ReceiveHandle.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

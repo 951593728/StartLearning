@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: provider
+
+
+
+server:
+  port: 8081
+
+dubbo:
+  scan:
+    base-packages: com.prectise.service
+  application:
+    name: provider
+
+  registry:
+    address: zookeeper://127.0.0.1:2181
+
+

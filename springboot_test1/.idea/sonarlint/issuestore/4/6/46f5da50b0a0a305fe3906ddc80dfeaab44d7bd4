@@ -1,0 +1,9 @@
+
+ksquid:S00100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ìÙ­øÿÿÿÿ
+ksquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚÄ‰úÿÿÿÿ
+esquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø×åh
+“squid:S1845"|Rename method "QUEEN_INFORM_EMAIL" to prevent any misunderstanding/clash with field "QUEEN_INFORM_EMAIL" defined on line 11.(´åÒ
+squid:S1845"xRename method "QUEEN_INFORM_SMS" to prevent any misunderstanding/clash with field "QUEEN_INFORM_SMS" defined on line 12.(õŠ§Ë
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´åÒ
+›squid:S1845"„Rename method "EXCHANGE_TOPICS_INFORM" to prevent any misunderstanding/clash with field "EXCHANGE_TOPICS_INFORM" defined on line 13.(ø×åh
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŠ§Ë
