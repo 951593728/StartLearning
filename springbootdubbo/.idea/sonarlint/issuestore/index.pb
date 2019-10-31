@@ -17,3 +17,7 @@ d
 api/pom.xml,f\e\fe5c43214168bd8de1d8afa275215a8e9b9de634
 r
 Bconsumer/src/main/java/com/prectise/controller/TestController.java,1\0\108a634827b1e9d09939c70937dac972c202eaec
+R
+"provider/src/main/webapp/index.jsp,7\4\74bef6e2c30153bac251aac6acd62581dfd11239
+X
+(provider/src/main/webapp/WEB-INF/web.xml,9\f\9f42d00ab695fc156a7a4e45d1c7bde5ed0ada82

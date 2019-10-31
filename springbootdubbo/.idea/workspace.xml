@@ -1,7 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f7b432a-9117-422e-8cdc-06c9569262f9" name="Default Changelist" comment="" />
+    <list default="true" id="3f7b432a-9117-422e-8cdc-06c9569262f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-api/src/main/java/com/stylefeng/guns/api/user/UserAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-api/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-api/src/main/resources/default-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/SimpleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/exception/BizExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/common/persistence/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/MessageConverConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/properties/JwtProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/config/properties/RestProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/BaseTransferEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/WithSignMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/security/DataSecurityAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/security/impl/Base64SecurityAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/util/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/IReqValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/dto/Credence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/DbValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/SimpleValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/example/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/test/java/com/stylefeng/guns/GunsRestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/test/java/com/stylefeng/guns/fastjson/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/test/java/com/stylefeng/guns/jwt/DecryptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-gateway/src/test/java/com/stylefeng/guns/jwt/JWTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/GunsRestServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/SimpleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/aop/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/exception/BizExceptionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/dao/mapping/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/common/persistence/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/config/MessageConverConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/config/properties/JwtProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/config/properties/RestProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/dto/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/BaseTransferEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/WithSignMessageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/security/DataSecurityAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/security/impl/Base64SecurityAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/util/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/IReqValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/dto/Credence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/DbValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/auth/validator/impl/SimpleValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/example/ExampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserAPIImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/test/java/com/stylefeng/guns/GunsRestApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/test/java/com/stylefeng/guns/fastjson/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/test/java/com/stylefeng/guns/generator/EntityGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/test/java/com/stylefeng/guns/jwt/DecryptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo_maoyan/guns/guns-user/src/test/java/com/stylefeng/guns/jwt/JWTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/.idea/sonarlint/issuestore/8/d/8d65f2910c40d87706b935d57fa3ef7380e12e71" beforeDir="false" afterPath="$PROJECT_DIR$/../proxy/.idea/sonarlint/issuestore/8/d/8d65f2910c40d87706b935d57fa3ef7380e12e71" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +96,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,11 +115,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1S2VFVWCwWDvmdxpsrJjD8iU6CT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot_test1" />
@@ -114,10 +200,26 @@
       <workItem from="1571279955410" duration="1501000" />
       <workItem from="1571296677312" duration="10000" />
       <workItem from="1571297687655" duration="13000" />
+      <workItem from="1571627042703" duration="1663000" />
+      <workItem from="1572243176761" duration="16000" />
+      <workItem from="1572243349148" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

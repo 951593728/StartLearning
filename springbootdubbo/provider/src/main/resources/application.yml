@@ -3,7 +3,6 @@ spring:
     name: provider
 
 
-
 server:
   port: 8081
 
