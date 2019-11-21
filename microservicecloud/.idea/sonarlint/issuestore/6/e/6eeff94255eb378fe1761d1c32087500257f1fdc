@@ -1,0 +1,4 @@
+
+rsquid:S00100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Í¾Âúÿÿÿÿ8ÏŒ¹Åä-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ô›Á¦ÿÿÿÿÿ8ÏŒ¹Åä-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8ÏŒ¹Åä-

@@ -1,0 +1,10 @@
+
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß
+_squid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°
+dsquid:S4488."HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(³’ìÃúÿÿÿÿ
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ñ¦«îøÿÿÿÿ
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(€£º

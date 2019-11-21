@@ -1,5 +1,5 @@
 
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÜ“Æ
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö×ˆîþÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(†¸óÖüÿÿÿÿ
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ö×ˆîþÿÿÿÿ
-fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÜ“Æ
